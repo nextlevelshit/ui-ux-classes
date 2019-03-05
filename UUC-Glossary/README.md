@@ -70,4 +70,4 @@
 
 ### XD
 
-Go to [*Adobe Experience Design (XD)*](./#user-content-adobe-experience-design-xd)
+Go to [*Adobe Experience Design (XD)*](#user-content-adobe-experience-design-xd)
