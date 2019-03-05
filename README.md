@@ -3,6 +3,15 @@
   <sup>Experience the good and the bad UI</sup>
 </div>
 
-| Sessions                      | Description              |
-|-------------------------------+--------------------------|
-| [Session 1](/UUC-Session-1)   | Analysis, Use Cases etc. |
+## Table of Content
+
+| Sessions                        | Description                |
+| ------------------------------- | -------------------------- |
+| [Session 1](/UUC-Session-1)     | Analysis, Use Cases etc.   |
+
+## Additional helpful Content
+
+
+| Title                           | Description                         |
+| ------------------------------- | ----------------------------------- |
+| [Glossary](/UUC-Glossary)       | Glossary of UI/UX Terms explained   |
