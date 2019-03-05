@@ -12,6 +12,19 @@ What are the biggest issues etc.?
 
 https://epetitionen.bundestag.de/petitionen/_2019/_01/_10/Petition_89957.nc.html
 
+![Screenshot of Petition on bundestag.de](screenshot-bundestag-petition.png)
+<div align="center">
+  <small><i>Screenshot of a petition on bundestag.de</i></small>
+</div>
+
+
+
 ## Case Study - dev.to Discussion
 
 https://dev.to/ben/what-software-development-skills-only-come-with-experience--578a
+
+![Screenshot of Discussion on dev.to](screenshot-dev-to.png)
+<div align="center">
+  <small><i>Screenshot of a discussion on dev.to</i></small>
+</div>
+
