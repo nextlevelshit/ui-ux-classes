@@ -28,3 +28,11 @@ https://dev.to/ben/what-software-development-skills-only-come-with-experience--5
   <small><i>Screenshot of a discussion on dev.to</i></small>
 </div>
 
+## Case Study - Debian Mailinglist
+
+https://lists.debian.org/debian-devel/1999/02/msg01641.html
+
+![Screenshot of Mailinglist Thread on lists.debian.org](screenshot-lists-debian.png)
+<div align="center">
+  <small><i>Screenshot of a thread from the mailinglist on lists.debian.org</i></small>
+</div>
